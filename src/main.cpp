@@ -15,7 +15,6 @@ using std::ifstream;
 
 using std::string;
 
-// 示例用法
 int main(int argc, char *argv[])
 {
     int         waitMilliseconds  = 5000;
